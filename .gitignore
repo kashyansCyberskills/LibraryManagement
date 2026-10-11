@@ -1,0 +1,15 @@
+# Backend
+lms/target/
+lms/data/
+lms/HELP.md
+
+# Frontend
+frntd/node_modules/
+frntd/dist/
+
+# Editors / OS
+.idea/
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+*.log
